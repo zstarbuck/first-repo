@@ -1,1 +1,21 @@
 git keeps track of changes to your file
+git init creates a new repository
+mkdir creates a new directory
+ls lists all the directories
+clear is used to clear the terminal
+exit gets outof the terminal
+touch is used to open a file or if it doesnt exist yet, create it
+Ctrl N creates a new file in VS Code
+terminal is an area for executing commands on any file or filing system on the computer
+terminal is a window into the inner workings of the operating system
+Terminal is where people input commands on computer to execute commands
+Be careful  when doing these commands. Need to make sure  you know what the command will do 
+There are some things the terminal will warn you  about 
+Terminal will not let you do the follow: delete the operating system, run commands that can only be run by administrator,
+    other specific things, CD will change directory, LS will print a list of files for the directory you are currently in, 
+    all commands are lowercase
+This isnt aprogramming course, its more of a version control course 
+There are different types of terminals: examples include bash, powershell, cmd, dozen or so terminals
+For example, you cannot run git commands in the powershell terminal, 
+A lot of this stuff is windows specific, different commands for different computer types
+Macs are unix-based and link directly into the unix core 
